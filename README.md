@@ -30,6 +30,12 @@ FraudShield focuses on **detecting rare anomalies while maintaining operational 
 | Features | V1–V28 (PCA anonymized), Time, Amount |
 | Target | Class (0 = Normal, 1 = Fraud) |
 
+Dataset Download:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Download the dataset and place it inside the /data directory before running the notebook.
+
+
 ---
 
 ## Approach
