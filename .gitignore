@@ -96,3 +96,8 @@ ENV/
 *.DS_Store
 
 data/creditcard.csv
+
+# TensorBoard / training logs
+logs/
+*.tfevents.*
+
